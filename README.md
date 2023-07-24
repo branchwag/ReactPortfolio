@@ -22,7 +22,8 @@ HUGE thank you to this tutorial by freecodecamp that was used to help create thi
 https://www.freecodecamp.org/news/build-portfolio-website-react/
 
 Also, I would like to give a shout-out to these docs for having clear styling tips that were used to make the page:
-https://flowbite.com/docs/typography/images/#:~:text=Set%20the%20size%20of%20the,and%20height%20of%20the%20element.
+https://flowbite.com/docs/typography/images/
+
 https://tailwindcss.com/docs/border-style
 
 ## License
