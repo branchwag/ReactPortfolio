@@ -32,4 +32,4 @@ MIT License
 
 ## How to Contribute
 
-Follow the [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+Follow the [Contributor Covenant](https://www.contributor-covenant.org/)!
