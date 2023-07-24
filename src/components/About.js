@@ -13,9 +13,12 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Hi everyone and welcome to my little corner of the internet! I am a
+            FIX integration engineer turned web developer, meaning that I used
+            to work on order flow for fintech companies before I started
+            tinkering with webpages! I currently live in NYC and enjoy biking
+            around the city along with sipping iced matcha lattes. Feel free to
+            use the contact info further below to get in touch!
           </p>
           <div className="flex justify-center">
             <a
