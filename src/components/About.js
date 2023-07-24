@@ -18,7 +18,7 @@ export default function About() {
             to work on order flow for fintech companies before I started
             tinkering with webpages! I currently live in NYC and enjoy biking
             around the city along with sipping iced matcha lattes. Feel free to
-            use the contact info further below to get in touch!
+            use the contact form further below to get in touch!
           </p>
           <div className="flex justify-center">
             <a
