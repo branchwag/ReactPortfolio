@@ -12,30 +12,35 @@ export default function Resume() {
         <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
           Resume
         </h1>
-        <div className="flex flex-wrap m-4">
-          {testimonials.map((testimonial) => (
-            <div className="p-4 md:w-1/2 w-full">
-              <div className="h-full bg-purple-800 bg-opacity-40 p-8 rounded">
-                <TerminalIcon className="block w-8 text-gray-500 mb-4" />
-                <p className="leading-relaxed mb-6">{testimonial.quote}</p>
-                <div className="inline-flex items-center">
-                  <img
-                    alt="testimonial"
-                    src={testimonial.image}
-                    className="w-12 rounded-full flex-shrink-0 object-cover object-center"
-                  />
-                  <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white">
-                      {testimonial.name}
-                    </span>
-                    <span className="text-gray-500 text-sm uppercase">
-                      {testimonial.company}
-                    </span>
-                  </span>
-                </div>
+        <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto pb-10">
+          Download a copy of my resume by clicking the card below.
+        </p>
+        <div className="flex flex-wrap -m-4 justify-center">
+          <a
+            href="https://docs.google.com/document/d/e/2PACX-1vQ-lZZm6h7w_7TH5X7bSFTBjmtvACCSK-W1wjHKNEeMHnxDAWzS-3w1pwisvPTGLg/pub"
+            key="./resumethumbnail.png"
+            className="sm:w-1/2 w-100 p-4"
+          >
+            <div className="flex relative justify-center">
+              {/* <img
+                alt="gallery"
+                className="absolute inset-0 w-full h-full object-cover object-center border-double border-4 border-sky-500"
+                src="./resumethumbnail.png"
+              /> */}
+              <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-100 hover:bg-purple-900">
+                <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
+                  LMB's Resume
+                </h2>
+                <h1 className="title-font text-lg font-medium text-white mb-3">
+                  Click to see full doc
+                </h1>
+                <p className="leading-relaxed">
+                  A Google Doc hosted resume that provides a bit more detail on
+                  my background and previous experience
+                </p>
               </div>
             </div>
-          ))}
+          </a>
         </div>
       </div>
     </section>
