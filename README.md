@@ -1,62 +1,33 @@
-# <Your-Project-Title>
+# LMB Portfolio Page - Built Using React!
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+The goal of this project was to create a personal portfolio page using React. I have included an About Me section along with a Contact form and small showcase of a few fun projects. Enjoy the site!
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+If cloning the project and running locally, please 'npm i' to install all of the dependencies within the package.json file. Then run 'npm start' and the app should be avaliable via http://localhost:3000/.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Screenshot below of the page in action!
 
-To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![page screenshot](./public/reactportscreenshot.png)
 
 ## Credits
 
 Columbia Coding Bootcamp
 
-Thank you to this tutorial by freecodecamp that was used to help create this app!
+HUGE thank you to this tutorial by freecodecamp that was used to help create this app!
 https://www.freecodecamp.org/news/build-portfolio-website-react/
 
-Thank you to Flowbite docs for clear styling tips:
+Also, I would like to give a shout-out to these docs for having clear styling tips that were used to make the page:
 https://flowbite.com/docs/typography/images/#:~:text=Set%20the%20size%20of%20the,and%20height%20of%20the%20element.
+https://tailwindcss.com/docs/border-style
 
 ## License
 
 MIT License
-
----
-
-The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 
