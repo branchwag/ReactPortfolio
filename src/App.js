@@ -7,6 +7,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
+import Footer from "./components/Footer";
 
 export default function App() {
   const imageURL = "./luca-bravo-XJXWbfSo2f0-unsplash.jpg";
@@ -23,6 +24,7 @@ export default function App() {
       <Skills />
       <Testimonials />
       <Contact />
+      <Footer />
     </main>
   );
 }
