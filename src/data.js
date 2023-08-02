@@ -31,11 +31,11 @@ export const projects = [
     link: "https://github.com/branchwag/PortfolioWebpage",
   },
   {
-    title: "Not Another Text Editor",
-    subtitle: "An interactive web-based text editor",
-    description: "A single-page PWA for jotting down a few notes",
-    image: "./fundragonscreenshot.png",
-    link: "https://pwatexteditorlmb-5ee75f4be028.herokuapp.com/",
+    title: "Untitled Art App",
+    subtitle: "A web app for showcasing art",
+    description: "A platform for artists to find inspiration and share their work.",
+    image: "./untitled.png",
+    link: "https://github.com/vlexaega/project3-untitled",
   },
   {
     title: "SVG Logo Generator",
@@ -44,6 +44,7 @@ export const projects = [
     image: "./logogenscreen.png",
     link: "https://github.com/branchwag/SVG-Logo-Maker",
   },
+
 ];
 
 export const skills = [
